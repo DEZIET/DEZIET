@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @DEZIET
-- 👀 I’m interested in Green IT
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Green IT,
+- 🌱 Python, HTML, CSS, and Microsoft Office Poweruser,
+- 🗺️ Drone, GIS, CAD,
 - 💞️ I’m looking to collaborate on others people who are connected with nature 
 - 📫 How to reach me here
 
